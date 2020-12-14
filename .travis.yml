@@ -1,4 +1,4 @@
-language: java
+anguage: java
 before_install:
   - chmod +x gradlew
 script:
