@@ -23,7 +23,7 @@ public class PHABHerokuServlet extends HttpServlet {
 
         resp.getWriter().write(req.getServletPath());
 
-        //just use /druglist in url http://localhost:8020/druglist
+        ///just use /druglist in url http://localhost:8020/druglist
 
 
 
